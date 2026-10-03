@@ -6,15 +6,7 @@ Exploratory data analysis of an animal taxonomy dataset, covering data cleaning,
 
 This project analyzes 1,349 animal records described by their biological classification, from Kingdom down to Genus. The goal is to understand the composition of the dataset, assess its data quality, and present the findings clearly.
 
-## 📂 Repository Structure
 
-```
-animals-dataset-eda-python/
-├── animals.csv                  # Source dataset
-├── Animals.ipynb                # Analysis notebook
-├── Animal_Data_Summary.pptx     # Summary presentation
-└── README.md
-```
 
 ## 📊 Dataset Description
 
